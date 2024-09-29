@@ -99,5 +99,8 @@ tech_stack = {
 ## 📫 Let's Connect!
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I'm always excited to collaborate on innovative AI/ML projects or discuss the latest advancements in the field. Feel free to reach out!</em>
+Sandhya Rani Narravula is a professional with a presence on both LinkedIn and GitHub, showcasing her skills and experience in the tech field.
 
-[LinkedIn](#)(https://www.linkedin.com/in/narravula-sandhya-rani-34132b1ab/) | [GitHub](#)(https://github.com/Sandhya-Rani-Narravula) | [Gmail](#)(narravulasandhyarani@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/narravula-sandhya-rani-34132b1ab/) 
+- **GitHub**: [GitHub Profile](https://github.com/Sandhya-Rani-Narravula) 
+- **Email**: narravulasandhyarani@gmail.com 
