@@ -100,4 +100,4 @@ tech_stack = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I'm always excited to collaborate on innovative AI/ML projects or discuss the latest advancements in the field. Feel free to reach out!</em>
 
-[LinkedIn](#) | [GitHub](#) | [Twitter](#) | [Portfolio](#)
+[LinkedIn](#https://www.linkedin.com/in/narravula-sandhya-rani-34132b1ab/) | [GitHub](#) | [Twitter](#) | [Portfolio](#)
