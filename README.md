@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🌟 Sandhya Rani Narravula 🌟
+
+</div>
+
+<div align="center">
+
 # 👋 Hello World! I'm Sandhya Rani Narravula
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right">
